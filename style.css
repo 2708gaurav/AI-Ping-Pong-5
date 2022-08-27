@@ -1,0 +1,35 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start , #status , #restart {
+    font-size: 22px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px white;
+}
+
+#restart{
+    margin-top: 335px;
+}
+
+.copy_right_footer{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    margin-bottom: 10px;
+}
